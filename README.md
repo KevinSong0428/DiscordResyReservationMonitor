@@ -43,7 +43,7 @@ This is a Discord bot designed to alert and open reservation link directly from 
 ## Usage
 You need to provide a few values before running the bot. The required properties that need to be provided can be found at the top of the `main.py` file before it can be used. For clarity, I will go in depth on how to get these parameters.
 * **DISCORD_WEBHOOK_URL** - You will need to create a webhook in your Discord server. Proceed to hover over the channel and select on the settings. Navigate to Integrations and select `Create Webhook`. After creating, select it and name the webhook `Resy Webhook`. Then copy webhook url and paste it in the file.
-* **TOKEN** - For this step, you will need to watch the following Youtube video on how to create a Discord bot to add to your server with the correct authorizations. Please make sure follow only these parts of the Youtube video: `Geting started` and `Inviting the bot to our server`. Due to copyrights, please search `Create Your Own Discord Bot in Python 3.10 Tutorial` on YouTube and follow the instructions. The token here will be the Discord bot token.
+* **TOKEN** - For this step, you will need to watch the following Youtube video on how to create a Discord bot to add to your server with the correct authorizations. Please make sure follow only these parts of the Youtube video: `Geting started` and `Inviting the bot to our server`. Due to copyrights, please search `Create Your Own Discord Bot in Python  Tutorial` on YouTube and follow the instructions. The token here will be the Discord bot token.
 * **CHANNEL** - Right click the channel you invited the bot and copy the channel ID.
 * **RESY_API** - Your user profile API key. Can be found once you're logged into Resy in most `api.resy.com` network 
 calls (i.e. Try they `/find` API call when visiting a restaurant). Open your web console and look for a request header 
@@ -52,7 +52,7 @@ called `authorization`.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-##Running the bot
+## Running the bot
 Please open the `main.py` file in an environment capable running python3 code. After setting up the parameters and adding the bot to your Discord serer and channel, run it! Follow the prompts asked in the channel and hopefully you are able to land a reseration.
 Best of luck to you!
 
