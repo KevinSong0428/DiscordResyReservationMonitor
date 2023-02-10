@@ -16,7 +16,6 @@
   </ol>
 </details>
 
-# Discord Resy Reservation Monitor
 ## Introduction
 This is a Discord bot designed to alert and open reservation link directly from [Resy](https://resy.com/) using the [Resy API](http://subzerocbd.info/). New reservations usually become available on a daily basis. Some restaurants may vary on what time and how many days out reservations are made available. When running the bot, prompts will appear to confirm the location and restaurant before monitoring. This can be left to run in the backgroud and search for available reservation, it will automatically ping via Discord and open the available reservation link.
 
