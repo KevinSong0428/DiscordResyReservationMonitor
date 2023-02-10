@@ -43,5 +43,5 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[Discord.py.com]: https://discordpy.readthedocs.io/en/stable/_images/snake_dark.svg
+[Discord.py.com]: [https://discordpy.readthedocs.io/en/stable/_images/snake_dark.svg](https://wasimaster.gallerycdn.vsassets.io/extensions/wasimaster/discord-py-snippets/1.7.0/1668862916012/Microsoft.VisualStudio.Services.Icons.Default)
 [Discord.py-url]: https://discordpy.readthedocs.io/en/stable/
