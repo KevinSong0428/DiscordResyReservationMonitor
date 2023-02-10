@@ -38,8 +38,7 @@ You need to provide a few values before running the bot. The required properties
 * **RESY_API** - Your user profile API key. Can be found once you're logged into Resy in most `api.resy.com` network 
 calls (i.e. Try they `/find` API call when visiting a restaurant). Open your web console and look for a request header 
 called `authorization`.
-* **GOOGLE_MAPS_API** - Follow the instruction from Google Maps Platform on creating an API key and paste it in the file after.
-  [Google Maps](https://developers.google.com/maps/documentation/embed/get-api-key#:~:text=Go%20to%20the%20Google%20Maps%20Platform%20%3E%20Credentials%20page.&text=On%20the%20Credentials%20page%2C%20click,Click%20Close.)
+* **GOOGLE_MAPS_API** - Follow the instruction from Google Maps Platform on creating an API key and paste it in the file after. [Google Maps](https://developers.google.com/maps/documentation/embed/get-api-key#:~:text=Go%20to%20the%20Google%20Maps%20Platform%20%3E%20Credentials%20page.&text=On%20the%20Credentials%20page%2C%20click,Click%20Close.)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
