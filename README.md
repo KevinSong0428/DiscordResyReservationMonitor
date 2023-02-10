@@ -49,7 +49,6 @@ Best of luck to you!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS -->
-[Discord.py.com]: https://discordpy.readthedocs.io/en/stable/_images/snake_dark.svg](https://wasimaster.gallerycdn.vsassets.io/extensions/wasimaster/discord-py-snippets/1.7.0/1668862916012/Microsoft.VisualStudio.Services.Icons.Default)
 [Discord.py-url]: https://discordpy.readthedocs.io/en/stable/
 [GoogleMaps-url]:https://developers.google.com/maps
 [Python-url]:https://www.python.org/
