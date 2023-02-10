@@ -43,7 +43,7 @@ called `authorization`.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Usage
-Please open the `main.py` file in an environment capable of running python3 code. After setting up the parameters and adding the bot to your Discord server and channel, start running the code. The bot will proceed to send prompts for you to follow. Follow the prompts asked in the channel and hopefully, you are able to land a reservation.
+Please open the `main.py` file in an environment capable of running python3 code. After setting up the parameters and adding the bot to your Discord server and channel, start running the code. The bot will proceed to send prompts for you to follow. Follow the prompts asked in the channel and hopefully, you are able to land a reservation. To stop the bot, simply stop the code from running in your environment or type `!stop` after it finds a reservation.
 Best of luck to you!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
