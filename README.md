@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 # Discord Resy Reservation Monitor
 
 <!-- TABLE OF CONTENTS -->
