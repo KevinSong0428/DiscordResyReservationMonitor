@@ -1,3 +1,4 @@
 discord
 pandas
 geopy
+discord_webhook
