@@ -14,7 +14,7 @@ from discord.ext import commands
 DISCORD_WEBHOOK_URL = {DISCORD_WEBHOOK_URL}
 TOKEN = {DISCORD_TOKEN_HERE}
 CHANNEL = {CHANNEL_ID}
-# 'ResyAPI api_key=xxx
+# ResyAPI api_key=xxx
 RESY_API = {RESY_AUTHORIZATION_KEY}
 GOOGLE_MAPS_API = {GOOGLE_MAPS_API_KEY}
 # Constant - optional to change
